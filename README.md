@@ -2,7 +2,7 @@
 ### version : 1.0 [Beta]
 Python Based Information Gathering tool. 
 
-[![license](http://img.shields.io/badge/license-Apache%20v2-orange.svg)](https://github.com/Packman-lab/Password-Manager/blob/master/LICENSE)
+[![license](http://img.shields.io/badge/license-Apache%20v2-orange.svg)](https://github.com/Packman-lab/Private-Recon/blob/master/LICENSE)
 
 - [Requirements](#requirements)
 - [HowToRun](#howToRun)
