@@ -1,5 +1,21 @@
 # Private-Recon
 ### version : 1.0 [Beta]
+Python Based Information Gathering tool. 
+
+[![license](http://img.shields.io/badge/license-Apache%20v2-orange.svg)](https://github.com/Packman-lab/Password-Manager/blob/master/LICENSE)
+
+- [Requirements](#requirements)
+- [HowToRun](#howToRun)
+
+
+##Features
+
+Keylogger
+Web Fingerprinting
+Port Scan
+MD5 Cracker
+Subdomain finder
+
 
 ## Requirements
 1. Python3 
@@ -12,5 +28,29 @@
 3. Python Modules
     * 
     ```sh
-    pip3 install 
+    pip3  install os
+    pip3   iall socket
+    pip3 install requests
+    pip3 install hashlib
+    pip3 install argparse
+    pip3 install json
+    pip3 install logging
+    pip3 install time
+    pip3 install nmap
+    pip3 install sys
     ```
+    
+## HowToRun : 
+
+#### On linux/mac
+```sh
+python3 main.py
+```
+#### On windows
+```sh
+python main.py
+```
+
+
+    
+    
