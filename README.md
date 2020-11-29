@@ -28,8 +28,8 @@ Subdomain finder
 3. Python Modules
     * 
     ```sh
-    pip3  install os
-    pip3   iall socket
+    pip3 install os
+    pip3 install socket
     pip3 install requests
     pip3 install hashlib
     pip3 install argparse
