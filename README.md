@@ -44,11 +44,11 @@ Subdomain finder
 
 #### On linux/mac
 ```sh
-python3 main.py
+python3 recon_v1.py
 ```
 #### On windows
 ```sh
-python main.py
+python recon_v1.py
 ```
 
 
