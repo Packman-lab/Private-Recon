@@ -10,10 +10,10 @@ Python Based Information Gathering tool.
 
 ## Features
 
-Keylogger
-Web Fingerprinting
-Port Scan
-MD5 Cracker
+Keylogger | 
+Web Fingerprinting | 
+Port Scan | 
+MD5 Cracker | 
 Subdomain finder
 
 
