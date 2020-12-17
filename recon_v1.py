@@ -1,7 +1,7 @@
 #Date : 21 Nov 2021
 #Creator : Packman-lab
 #Lang : Python
-#Status : Beta
+#Status : Alpha
 
 from pynput.keyboard import Key, Listener
 import os
