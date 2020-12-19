@@ -44,7 +44,7 @@ Subdomain finder
 
 #### On linux/mac
 ```sh
-python3 recon_v1.py
+python3 recon_v1.py [URL]
 ```
 #### On windows
 ```sh
