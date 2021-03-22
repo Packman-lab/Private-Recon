@@ -48,7 +48,7 @@ python3 recon_v1.py [URL]
 ```
 #### On windows
 ```sh
-python recon_v1.py
+python recon_v1.py [URL]
 ```
 
 
